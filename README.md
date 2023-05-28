@@ -2,7 +2,8 @@
 
 **This requires PyQt to run!**
 
-![image](https://user-images.githubusercontent.com/7193583/230805435-4bf103a9-5dca-4f00-b48b-3cc40eafd3a6.png)
+![Untitled](https://github.com/Cpt-Hazama/SMD-Bone-Renamer/assets/7193583/e6173d1d-e839-4341-876c-47084e128033)
+
 
 This program can batch replace SMD bone names, in the event you need to do such a thing. Includes an example bone mapping TXT file, the format is as simple as
 ```
