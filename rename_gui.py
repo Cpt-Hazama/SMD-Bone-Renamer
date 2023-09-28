@@ -113,6 +113,8 @@ class BoneReplacerApp(QWidget):
                             old_bone, new_bone = map(
                                 str.strip, line.split('='))
                             bone_replacements[old_bone] = new_bone
+                            print('Found bone replacement:',
+                                  old_bone, '->', new_bone)
 
                 for i in range(start_index + 1, end_index):
                     for old_bone, new_bone in bone_replacements.items():
